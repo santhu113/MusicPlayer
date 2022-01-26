@@ -42,7 +42,7 @@
       },
       "LANGUAGE": {
         "description": "An available bot language (read the README.md for more info)",
-        "value": "en",
+        "value": "telugu",
         "required": false
       },
       "QUALITY": {
